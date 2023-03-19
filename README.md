@@ -1,5 +1,5 @@
 # MixMeister
-PerfectDriink is a web application that allows users to search for cocktail recipes based on the ingredients they have at home. Users can search for cocktails by specifying the ingredients they have, and the application will display a list of cocktails that can be made using those ingredients. The application also provides instructions on how to prepare each cocktail.
+MixMeister is a web application that allows users to search for cocktail recipes based on the ingredients they have at home. The application also provides instructions on how to prepare each cocktail.
 
 Technologies Used
 1. HTML
