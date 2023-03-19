@@ -13,4 +13,4 @@ To use the PerfectDriink application, simply open the index.html file in your we
 > please create a pull request with your changes.
 
 ## License
-PerfectDriink is licensed under the MIT license. See the LICENSE file for more information.
+PerfectDriink is licensed under the MIT license.
